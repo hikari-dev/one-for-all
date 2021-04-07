@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+    <configuration default="false" name="OneForAllApplication" type="SpringBootApplicationConfigurationType"
+                   factoryName="Spring Boot" nameIsGenerated="true">
+        <module name="oneforall.server.main"/>
+        <option name="SPRING_BOOT_MAIN_CLASS" value="dev.hikari.oneforall.OneForAllApplication"/>
+        <option name="ALTERNATIVE_JRE_PATH"/>
+        <envs>
+            <env name="idea.avtive" value="true"/>
+        </envs>
+        <method v="2">
+            <option name="Make" enabled="true"/>
+        </method>
+    </configuration>
+</component>
