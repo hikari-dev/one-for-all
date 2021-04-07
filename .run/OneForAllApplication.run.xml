@@ -1,7 +1,7 @@
 <component name="ProjectRunConfigurationManager">
     <configuration default="false" name="OneForAllApplication" type="SpringBootApplicationConfigurationType"
                    factoryName="Spring Boot" nameIsGenerated="true">
-        <module name="oneforall.server.main"/>
+        <module name="one-for-all.server.main"/>
         <option name="SPRING_BOOT_MAIN_CLASS" value="dev.hikari.oneforall.OneForAllApplication"/>
         <option name="ALTERNATIVE_JRE_PATH"/>
         <envs>
