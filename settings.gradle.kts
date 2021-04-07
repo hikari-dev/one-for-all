@@ -1,4 +1,4 @@
-rootProject.name = "oneforall"
+rootProject.name = "one-for-all"
 
 fun includeProject(path: String, name: String = path): ProjectDescriptor {
     include(path)
